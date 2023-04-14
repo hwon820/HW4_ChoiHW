@@ -8,3 +8,4 @@ git checkout develop
 git commit -m "E"
 git checkout -
 git merge develop
+git checkout develop
